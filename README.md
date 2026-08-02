@@ -174,23 +174,22 @@ The data was prepared using Microsoft Excel and integrated into Power BI for int
 
 ## Executive Dashboard
 
-*(Add Screenshot Here)*
+<img width="1332" height="730" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/5d19553d-c882-426b-9758-60be1b2c1b36" /> 
 
 ---
 
 ## Infrastructure Analysis Dashboard
 
-*(Add Screenshot Here)*
+<img width="1386" height="742" alt="Infrastructure Analysis Dashboard" src="https://github.com/user-attachments/assets/b7d6ce64-0c83-4475-9f2e-76d9e71fd89f" />
 
 ---
 
 ## Infrastructure Insights & Summary
 
-*(Add Screenshot Here)*
+<img width="1371" height="761" alt="Screenshot 2026-08-02 200848" src="https://github.com/user-attachments/assets/23bab4e6-7f37-42e9-a31f-a81cdea3e550" />
 
 ---
 
-# 📋 Project Workflow
 
 1. Data Collection using Excel
 2. GIS Data Preparation using QGIS
